@@ -1,0 +1,5 @@
+n=input("Enter ur name= ")
+r=input("Enter ur roll no= ")
+c=int(input("Enter ur cgpa= "))
+s=input("Enter ur status= ")
+print(n,r,c,s)

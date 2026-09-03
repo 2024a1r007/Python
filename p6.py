@@ -1,0 +1,5 @@
+name = input("Please enter your name: ")
+print("total characters: ", len(name))
+print("first character: ", name[0])
+print("last character: ", name[-1])
+print("captalized name: ", name.upper())

@@ -1,0 +1,1 @@
+#write a program to demonstrate type checking of various data type and demonstrate the use of following built in function in python: abs(),len(),mim(),rounds(),isalnum(),type()

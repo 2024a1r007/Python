@@ -1,0 +1,1 @@
+#Write a Python program to repeatedly calculate the sum of digits of a number until the result becomes a single digit.

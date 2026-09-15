@@ -1,0 +1,1 @@
+#Write a Python program to input a decimal number and convert it into binary without using the built-in bin() function.

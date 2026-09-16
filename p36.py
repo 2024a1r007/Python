@@ -9,3 +9,5 @@ while num > 9:
         sum += digit
         num = num // 10
     num = sum
+
+print("Single-digit number:", num) 
